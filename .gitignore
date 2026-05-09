@@ -1,0 +1,22 @@
+# Ignore everything in the root directory by default
+/*
+
+# Except the Assignment directory and these specific files
+!/Assignment/
+!/.gitignore
+!/README.md
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments & secrets
+.venv
+.env
+
+# Ignore temporary/sandbox files in Assignment
+/Assignment/sandbox/
