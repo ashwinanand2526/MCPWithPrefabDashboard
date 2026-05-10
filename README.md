@@ -39,3 +39,5 @@ The server provides four distinct capabilities:
 4. Enter natural language instructions such as:
    * "Find the top 5 highest grossing movies and show them to me on a dashboard."
    * "Create a heat map for the same data in a separate tab."
+
+Demo video: https://youtu.be/t7pvZfPkIZ8
